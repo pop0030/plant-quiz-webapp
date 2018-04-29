@@ -7,8 +7,7 @@
         <h2>{{ seeds[this.$parent.score-1].name }}</h2>
         <p>被遺忘的小種子，被拾起的大發現。傾聽林惠蘭老師圖文解說。種子要告訴你的生活大小事。種子、季節、風水、生活、美食。看林惠蘭老師教你如何用種子的成長體會人生，用盆栽的灌溉滋養生活。</p>
         <div class="buttom">
-          <a href="">分享至Facebook</a>
-          <a href="">更多種子</a>
+          <a href="">重新開始</a>
         </div>
       </div>
     </div>
